@@ -11,3 +11,9 @@ logical steps in training and evaluating a deep learning model
 ***
 Data augmentation
 ***
+Cutmix data augmentatin 
+***
+<b> Resnet </b>
+custome conv2d
+residual block
+***
