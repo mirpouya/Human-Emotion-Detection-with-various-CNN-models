@@ -13,7 +13,7 @@ Data augmentation
 ***
 Cutmix data augmentatin 
 ***
-<b> Resnet </b>
-custome conv2d
-residual block
+<b> Resnet </b> <br>
+custome conv2d <br>
+residual block <br>
 ***
